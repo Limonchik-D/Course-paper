@@ -1,0 +1,8 @@
+C:\Users\Limon\source\repos\Разработка программных модулей\bin\Debug\Разработка программных модулей.exe.config
+C:\Users\Limon\source\repos\Разработка программных модулей\bin\Debug\Разработка программных модулей.exe
+C:\Users\Limon\source\repos\Разработка программных модулей\bin\Debug\Разработка программных модулей.pdb
+C:\Users\Limon\source\repos\Разработка программных модулей\obj\Debug\Разработка программных модулей.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Разработка программных модулей\obj\Debug\Разработка программных модулей.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Разработка программных модулей\obj\Debug\Разработка программных модулей.exe
+C:\Users\Limon\source\repos\Разработка программных модулей\obj\Debug\Разработка программных модулей.pdb
+C:\Users\Limon\source\repos\Разработка программных модулей\obj\Debug\Разработка программных модулей.exe.config
